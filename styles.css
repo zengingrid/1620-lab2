@@ -1,5 +1,16 @@
 h1 {
-    color: #5f7eaa; 
-    font-family: garamond;
-    font-size: 150%
+    background-color: #eef7fc;
+    color: #67a1e0; 
+    font: 30px bold Cormorant Garamond, serif;
+    font-weight: 700;
+}
+h2{
+    background-color: #eef7fc;
+    font: 18px Yanone Kaffeesatz, sans-serif;
+}
+body{
+    background-color: #eef7fc;
+    font: 14px Cormorant Garamond, serif;
+    color: #060E0D;
+    font-weight: 400;
 }
